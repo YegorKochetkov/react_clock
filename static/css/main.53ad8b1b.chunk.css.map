@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,WACE,cAAe,CAChB,aAGC,cAAe","file":"main.53ad8b1b.chunk.css","sourcesContent":[".app {\n  &__time {\n    font-size: 30px;\n  }\n\n  &__button {\n    cursor: pointer;\n  }\n}\n"]}
